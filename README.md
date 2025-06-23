@@ -18,11 +18,11 @@
 
 ### TCP Scan Example
 
-![TCP Scan Screenshot](path/to/tcp_screenshot.png)
+![TCP Scan Screenshot](TCP_Scan.png)
 
 ### UDP Scan Example
 
-![UDP Scan Screenshot](path/to/udp_screenshot.png)
+![UDP Scan Screenshot](UDP_Scan.png)
 
 ---
 
