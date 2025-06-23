@@ -16,12 +16,7 @@
 
 ## Screenshots
 
-### TCP Scan Example
-
 ![TCP Scan Screenshot](TCP_Scan.png)
-
-### UDP Scan Example
-
 ![UDP Scan Screenshot](UDP_Scan.png)
 
 ---
