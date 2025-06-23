@@ -16,10 +16,10 @@
 
 ## Screenshots
 
-![TCP Scan Screenshot](TCP_Scan.png)
-![UDP Scan Screenshot](UDP_Scan.png)
+| TCP Scan Example       | UDP Scan Example       |
+|-----------------------|-----------------------|
+| ![TCP Scan](TCP-Scan.png) | ![UDP Scan](UDP-Scan.png) |
 
----
 
 ### ⚠️ Important Usage Warning
 
